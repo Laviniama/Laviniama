@@ -5,9 +5,12 @@
 ![Jan Carles GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan-Carles&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-Carles&layout=compact&theme=dark)
 ## Tecnologias que eu uso no meu dia
-<div style = "display: inline_block"><br/>
-    <img align = "center" alt = "Python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 </div><br/>
 
