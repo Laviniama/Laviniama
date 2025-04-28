@@ -1,12 +1,15 @@
 
 <h1 align=center><br>
-  <img align=center style="margin:auto;" src="https://github.com/user-attachments/assets/54821490-9c0d-4696-b46c-bae597e8291c" width=150 height=100>
+  <img align=center style="margin:auto;" src="https://github.com/user-attachments/assets/99de6ca4-a7ad-488d-822b-2f99477a328a" width=1000 height=450>
+  <br>
   <br>
   <b>Jan Carles</b>
+  <br>
+  <br>
 </h1>
-
 <p align=center>💻 Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul </p>
-
+<br>
+<br>
 
 ![Jan Carles GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan-Carles&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-Carles&layout=compact&theme=dark)
