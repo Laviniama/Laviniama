@@ -1,7 +1,6 @@
 
 <h1 align=center><br>
-  <img align=center style="margin:auto;" src="https://github.com/user-attachments/assets/99de6ca4-a7ad-488d-822b-2f99477a328a" width=1000 height=450>
-  <br>
+  <img align=center style="margin:auto;" src="https://github.com/user-attachments/assets/ebe0890e-3d56-401b-aad1-c6c1f0463386" width=150 height=100>
   <br>
   <b>Jan Carles</b>
   <br>
