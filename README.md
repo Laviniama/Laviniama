@@ -1,7 +1,13 @@
 
-### 📖 - Estudante de Ciência da Computação
+<h1 align=center><br>
+  <img align=center style="margin:auto;" src="https://github.com/user-attachments/assets/54821490-9c0d-4696-b46c-bae597e8291c" width=150 height=100>
+  <br>
+  <b>Jan Carles</b>
+</h1>
 
-##
+<p align=center>💻 Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul </p>
+
+
 ![Jan Carles GitHub stats](https://github-readme-stats.vercel.app/api?username=Jan-Carles&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-Carles&layout=compact&theme=dark)
 ## Tecnologias que eu uso no meu dia
